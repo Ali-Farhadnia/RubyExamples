@@ -13,6 +13,8 @@ else
   puts "Grade: F"
 end
 
+# Output: "Grade: B"
+
 # Switch Case Simulation using case statement
 fruit = "apple"
 
@@ -26,3 +28,5 @@ when "orange"
 else
   puts "It's something else!"
 end
+
+# Output: "It's an apple!"
