@@ -47,7 +47,7 @@ Description: Code snippets showcasing function definitions, parameters, and retu
 ### Example 4: Classes and Objects
 Description: Basic examples demonstrating class creation, object instantiation, and method invocation.
 
-### Example 4: OOP
+### Example 5: OOP
 Description: Basic examples of OOP (Encapsulation,Inheritance,module,polymorphism)
 
 ## Contributing
