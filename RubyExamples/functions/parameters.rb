@@ -9,7 +9,6 @@ end
 # Calling the function with arguments
 add(5, 3)
 
-# Output: Hello, Guest!
 
 # ===============================================================
 

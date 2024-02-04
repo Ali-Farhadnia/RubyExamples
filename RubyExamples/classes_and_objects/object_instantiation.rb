@@ -7,6 +7,6 @@ my_car = Car.new('Toyota', 'Corolla')
 
 
 # Call a method on the Car instance
-my_car.name  # Output: Engine started!
+my_car.name  # Output:
 
 my_car.start_engine  # Output: Engine started!

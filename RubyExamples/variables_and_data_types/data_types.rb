@@ -2,7 +2,7 @@
 
 # Different data types in Ruby
 string_var = "Hello, Ruby!"
-integer_var = 42
+integer_var = 4278629652684126987452624862
 float_var = 3.14
 boolean_var = true
 array_var = [1, 2, 3, 4]

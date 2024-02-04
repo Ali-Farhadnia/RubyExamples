@@ -24,4 +24,4 @@ my_car = Car.new
 my_car.start_engine
 
 # Attempting to call the private method directly results in an error
-# car.ignite_engine  # Results in NoMethodError
+car.ignite_engine  # Results in NoMethodError
